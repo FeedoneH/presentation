@@ -100,35 +100,39 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <iframe
-              src="https://azerbaijanstateoilacade-my.sharepoint.com/personal/fidan_hasanquliyeva_i_asoiu_edu_az/_layouts/15/Doc.aspx?sourcedoc={649d459a-db4b-4bea-9350-3fa74f2e6b82}&amp;action=embedview&amp;wdAr=1.7777777777777777"
-              width="720px"
-              height="550px"
+              src="//www.slideshare.net/slideshow/embed_code/key/trsj86VfrJoCVD"
+              width="720"
+              height="585"
               frameborder="0"
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              allowfullscreen
             >
-              This is an embedded{" "}
-              <a target="_blank" href="https://office.com">
-                Microsoft Office
-              </a>{" "}
-              presentation, powered by{" "}
-              <a target="_blank" href="https://office.com/webapps">
-                Office
-              </a>
-              .
-            </iframe>
-            {/* <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-                
-            </a> */}
+              {" "}
+            </iframe>{" "}
+            <div >
+              {" "}
+              <strong>
+                {" "}
+                <a
+                  href="//www.slideshare.net/FidanHasanguliyeva/recommender-system-240385883"
+                  title="Recommender system "
+                  target="_blank"
+                >
+                  Recommender system{" "}
+                </a>{" "}
+              </strong>{" "}
+              from{" "}
+              <strong>
+                <a
+                  href="//www.slideshare.net/FidanHasanguliyeva"
+                  target="_blank"
+                >
+                  FidanHasanguliyeva
+                </a>
+              </strong>{" "}
+            </div>
           </div>
           <Modal
             id="video-modal"
